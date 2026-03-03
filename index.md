@@ -39,6 +39,9 @@ Outward-facing pieces connecting ancient consciousness engineering to digital in
 
 1. [The Frequency Problem](/research/the-frequency-problem/) — archaeoacoustics and the temple-building impulse
 2. [The Notation Problem](/research/the-notation-problem/) — how consciousness develops literacy for resonance
+3. [The Prescription Problem](/research/the-prescription-problem/) — the structural impossibility of self-diagnosis
+4. [The Instrument Problem](/research/the-instrument-problem/) — what does the reading, and why it requires two
+5. [The Calibration Problem](/research/the-calibration-problem/) — echo chambers, false consensus, and honest rooms
 
 ---
 
